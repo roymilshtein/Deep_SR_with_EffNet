@@ -5,7 +5,7 @@ By converting audio data into Mel-Spectrograms, the study assesses the efficacy 
 The repository includes code for data preprocessing, model training, and evaluation, along with detailed experiments comparing different EfficientNet scales.
 The goal is to advance speaker identification methods by leveraging EfficientNet's strengths in handling complex audio data in an efficient matter.
 
-![Spectrogram Example](/project overview.png)
+![Project Overview](project overview.png)
 
 ## The Git folder contains:
 
