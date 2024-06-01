@@ -1,5 +1,5 @@
 # Deep Learning - Speaker Recognition with EfficientNet Using MelSpectrograms
-This repository explores the application of EfficientNet, a CNN architecture, for speaker identification tasks.
+This project explores the application of EfficientNet, a CNN architecture, for speaker identification tasks.
 By converting audio data into Mel-Spectrograms, the study assesses the efficacy of EfficientNet models in improving accuracy and computational efficiency.
 
 The repository includes code for data preprocessing, model training, and evaluation, along with detailed experiments comparing different EfficientNet scales.
